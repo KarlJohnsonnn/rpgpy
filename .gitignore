@@ -8,3 +8,5 @@ rpgpy/*cache*
 rpgpy/*.so
 tests/*/**/*cache*
 bin/*.nc
+lardaFCN2rpgpy/**/*
+spectra_test/
